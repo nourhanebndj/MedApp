@@ -1,0 +1,222 @@
+{
+    "@@locale": "fr",
+    "nearyour":"le plus proche de vous",
+    "findyourquicklyyourdoctor":"trouver votre medecin rapidement\n",
+    "Areyouadoctor":"Etes vous un medecin?",
+    "Welcome_Doctor":"Bienvenue Docteur",
+    "Your_trusted_companion_for_efficient_and_intuitive_medical_practice":"Votre compagnon de confiance pour une pratique médicale efficace et intuitive.",
+    "Welcome_Pharmacist":"Bienvenue Pharmacien",
+    "description":"Votre allié de confiance pour une gestion optimale de la pharmacie et des soins aux patients.",
+    "Areyouauser":"Etes vous un malade?",
+    "Areyouapharmacist":"Etes vous un pharmacien?",
+    "appointement":" Votre Rendez vous",
+    "title": "Demandes de médicaments",
+    "newRequestReceived": "Nouvelle demande de médicament reçue de",
+    "Liste_des_medicament_non_disponible":"Liste des médicaments non disponibles",
+    "requestRejected": "Votre demande a été rejetée. Remarque :",
+    "requestAccepted": "Votre demande a été acceptée",
+    "requestRejectedTitle": "Demande rejetée",
+    "requestAcceptedTitle": "Demande acceptée",
+    "newMedicationRequestReceived":"Nouvelle demande de médicament reçue.",
+    "requestStatusUpdated":"Le statut de votre demande a été mis à jour.",
+    "newMedicationRequest":"Nouvelle demande de médicament",
+    "loadingAppointmentsError": "Erreur lors du chargement des rendez-vous : ",
+    "pleaseAddNoteBeforeAcceptingRequest":"Veuillez ajouter une note avant d accepter la demande",
+    "pleaseAddNoteBeforeRejectingRequest":"Veuillez ajouter une note avant de refuser la demande",
+    "updatingAppointmentStatusError": "Erreur lors de la mise à jour du statut du rendez-vous : ",
+  "appointmentStatusUpdated": "a",
+  "appointmentApproachingTitle": "Rendez-vous Approchant",
+  "appointmentApproachingBody": "Votre rendez-vous est dans ",
+    "registration":"Inscription",
+    "we_need_to_register_your_phone_without_getting_started":"nous devons enregistrer votre téléphone avant de  commencer",
+    "username":"nom utilisateur",
+    "phone":"Numero de telephone : ",
+    "Send_Verification_Code":"Envoye le Code de verification ",
+    "Choose_Work_Days": "Choisissez les jours de travail",
+    "Done": "Terminé",
+    "Select_Your_Location": "Sélectionnez votre emplacement",
+    "Welcome_to_your_application": "Bienvenue dans MedApp",
+    "Name": "Nom : ",
+    "Email": "Email : ",
+    "Select_Work_Days": "Sélectionner les jours de travail",
+    "Select_Start_Time": "Selectionner heure de début",
+    "Select_End_Time": "Selectionner heure de fin",
+    "Phone_Number": "Numéro de téléphone",
+    "Password": "Mot de passe",
+    "SignUp": "Inscrire",
+    "Already_have_an_account": "Vous avez déjà un compte",
+    "Login": "Connexion",
+    "Forgot_Password": "Mot de passe oublié",
+    "Dont_have_an_account": "Vous n avez pas de compte ?",
+    "Verification_code": "Code de vérification",
+    "Enter_SMS_Code": "Entrez le code SMS",
+    "Verify_Phone_Number": "Vérifier le numéro de téléphone",
+    "Forgot_your_password": "Mot de passe oublié",
+    "Enter_your_mail": "Entrez votre email",
+    "Send_Email": "Envoyer email",
+    "Create": "Créer",
+    "Home": "Accueil",
+    "Pharmacist": "Pharmacien",
+    "Map": "Carte",
+    "Profile": "Profil",
+    "Hello": "Bonjour",
+    "How_do_you_feel_today": "Comment vous sentez ?",
+    "Search_doctor": "Rechercher un médecin",
+    "Categories": "Catégories",
+    "View_All": "Voir tout",
+    "Top_Doctor": "Meilleur Médecin",
+    "Top_pharmacist":"Meilleur pharmacien",
+    "Dr": "Dr.",
+    "Specialty": "Spécialité :",
+    "Days": "Jours :",
+    "Hours": "Heures :",
+    "All_Doctors": "Tous les médecins",
+    "All_pharmacist": "Tous les pharmaciens",
+    "My_All_Request":"Mes demandes",
+    "My_appointement":"Mes rendez-vous",
+    "Logout":"Déconnexion",
+    "No_user_logged_in":"Aucun utilisateur connecté",
+    "Search_pharmacist":"Rechercher un pharmacien...",
+    "work_days": "Jours de travail :",
+    "starttime": "Heure début :",
+    "endtime": "Heure fin :",
+    "Consult_Your_Requests": "Consulter vos demandes",
+    "Consult_Your_Appointments": "Consulter vos rendez-vous",
+    "category": "Catégorie",
+    "Available_From":"Disponible à partir de : ",
+    "Available_Until":"Disponible jusqu à : ",
+    "Medication_Request":"Demande de médicaments",
+    "About_the_Pharmacist":"À propos du pharmacien",
+    "Select_Location": "Sélectionner l emplacement",
+    "Please_select_at_least_one_workday": "Veuillez sélectionner au moins un jour ouvrable",
+    "Please_select_a_location": "Veuillez sélectionner un emplacement",
+    "Please_select_both_start_and_end_time": "Veuillez sélectionner à la fois l'heure de début et l'heure de fin",
+    "No_doctor_found_please_reset": "Aucun médecin trouvé, veuillez réinitialiser",
+    "Search": "Rechercher",
+    "Pharmacist_Name": "Nom du pharmacien",
+    "Enter_pharmacist_name": "Entrez le nom du pharmacien",
+    "Select_Hours": "Sélectionner les heures",
+    "Start": "Début",
+    "End": "Fin",
+    "Search_Doctor": "Rechercher un médecin",
+  "Enter_doctor_name": "Entrez le nom du médecin",
+  "Workdays": "Jours de travail : ",
+  "No_doctor_found": "Aucun médecin trouvé, veuillez réinitialiser",
+  "Please_select_category": "Veuillez sélectionner une catégorie",
+  "Please_select_location": "Veuillez sélectionner un emplacement",
+  "patientInformation": "Informations sur le patient",
+  "firstName": "Prénom",
+  "lastName": "Nom de famille",
+  "sexe": "Sexe",
+  "age": "Âge",
+  "selectWorkTime": "Sélectionner heure de travail",
+  "appointmentRegistered": "Rendez-vous enregistré avec succès",
+  "backToHomePage": "Retour à la page d accueil",
+  "aboutDoctor": "À propos du médecin",
+  "bookAppointment": "Prendre un rendez-vous",
+  "Select_from_Gallery": "Sélectionner depuis la galerie",
+  "Take_a_Photo":"Prendre une photo",
+  "List_of_Medicines":"Liste des médicaments",
+  "Submit_Request":"Soumettre la demande",
+  "myAppointments": "Mes rendez-vous",
+"error": "Erreur",
+"noAppointmentsFound": "Aucun rendez-vous trouvé",
+"doctorNotFound": "Médecin non trouvé",
+"accessTime": "Heure",
+"calendarMonth": "Jour",
+"accepted": "Accepté",
+"rejected": "Rejeté",
+"pending": "En attente",
+"Doctor":"Docteur",
+"myMedicationRequests": "Mes demandes de médicaments",
+  "noMedicationRequestsFound": "Aucune demande de médicament trouvée",
+  "allMedicationRequests": "Toutes les demandes de médicaments",
+  "pharmacistNotFound": "Pharmacien introuvable",
+  "note": "Remarque",
+  "patient": "Patient",
+  "pharmacist": "Pharmacien",
+  "medicationList": "Liste des médicaments",
+  "years": "années",
+  "time": "Heure",
+  "day": "Jour",
+  "accept": "Accepter",
+  "reject": "Rejeter",
+  "saveNote": "Enregistrer la note",
+  "closeButton": "Fermer",
+  "noNotifications": "Aucune notification trouvée pour le moment.",
+  "requestNotifications": "Notifications de demande",
+  "appointmentNotifications": "Notifications de rendez-vous",
+  "notificationsTitle": "Notifications",
+  "No_doctor_found_in_your_zone":"Aucun médecin trouvé dans votre zone",
+  "No_pharmacist_found_in_your_zone":"Aucun pharmacien trouvé dans votre zone",
+  "Welcome_laboratory":"Bienvenue au laboratoire",
+  "Areyoulaboraty":"Êtes-vous un laboratoire",
+  "Your_trusted_companion_for_finding_laboratories_efficiently_and_intuitively":"Votre compagnon de confiance pour trouver des laboratoires de manière efficace et intuitive",
+  "EditProfil":"Modifier le profil",
+  "Top_laboratory": "Meilleur laboratoire",
+  "Laboratory": "Laboratoire",
+  "No_laboratory_found_in_your_zone":"Aucun laboratoire trouvé dans votre zone",
+  "Search_laboratory":"Rechercher un laboratoire",
+  "Enter_laboratory_name": "Entrer le nom du laboratoire",
+  "No_laboratory_found": "Aucun laboratoire trouvé, veuillez réinitialiser",
+  "All_laboratory":"Tous les laboratoires",
+  "Emplacement":"Emplacement:",
+  "search_doctor_or_pharmacist_laboratory":"Rechercher le nom du médecin, du pharmacien ou du laboratoire",
+  "edit_profil":"Modifier le Profil",
+  "confirmDeletion": "Confirmer la suppression",
+  "confirmDeletionMessage": "Êtes-vous sûr de vouloir supprimer ce compte ? Cette action ne peut pas être annulée.",
+  "cancel": "Annuler",
+  "delete": "Supprimer",
+  "deleteSuccess": "Compte supprimé avec succès",
+  "deleteError": "Erreur lors de la suppression du compte",
+  "saveChange":"Enregistrer les modifications",
+  "profileUpdated":"Profil mis à jour avec succès",
+  "updateError":"Erreur lors de la mise à jour du profil",
+  "Resend_code":"Renvoyer le code",
+  "No_scheduled_notifications":"Pas de notification de rappel",
+  "Scheduled_Notifications":"Notifications de rappel",
+  "Dont_forget_your_appointment_at":"N oubliez pas votre rendez vous chez",
+  "expired":"expirée"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}   

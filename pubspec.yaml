@@ -1,0 +1,125 @@
+name: mediloc
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+      sdk: flutter
+  google_nav_bar: ^5.0.6
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.17.6
+  firebase_core: ^2.25.5
+  cloud_firestore: ^4.15.6
+  firebase_storage: ^11.6.0
+  firebase_messaging: ^14.8.0
+  google_sign_in: ^6.1.6
+  provider: ^6.1.1
+  intl_phone_field: ^3.2.0
+  pinput: ^4.0.0
+  phone_auth_otp_ui: ^0.0.2
+  country_code_picker: ^3.0.0
+  sms_otp_auto_verify: ^2.1.0
+  pin_code_fields: ^8.0.1
+  firebase_phone_auth_handler: ^1.0.8
+  safetynet_attestation: ^1.0.1
+  firebase_app_check: ^0.2.1+15
+  crypto: ^3.0.3
+  country: ^4.1.0
+  country_pickers: ^2.0.0
+  country_flags: ^2.2.0
+  country_icons: ^3.0.0
+  get: ^4.6.5
+  exceptions: 0.6.0
+  carousel_slider: ^4.2.1
+  shared_preferences: ^2.2.2
+  geolocator: ^11.0.0
+  email_validator: ^2.1.17
+  google_maps_flutter: ^2.5.3
+  geocoding: 3.0.0
+  permission_handler: ^11.0.1
+  intl: 0.18.1
+  url_launcher: ^6.1.14
+  table_calendar: <=3.1.0
+  flutter_local_notifications: ^17.0.0
+  awesome_notifications: <=0.8.3
+  timezone: ^0.9.2
+  rxdart: ^0.27.7
+  file_picker: 8.0.0+1
+  dotted_border: ^2.1.0
+  image_picker: ^1.0.7
+  highlight_text: ^1.7.0
+  camera: ^0.10.5+9
+  google_mlkit_text_recognition: ^0.6.0
+  google_ml_kit: ^0.14.0
+  map_picker: ^0.0.3
+  flutter_scalable_ocr: ^2.0.0
+  animate_do: ^3.3.4
+  lottie: ^3.0.0
+  material_design_icons_flutter: ^7.0.7296
+  flutter_onboarding_slider: ^1.0.11
+  slide_to_act: ^2.0.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/images/MediApp.png
+    - lib/assets/icon/logo.png
+    - lib/assets/images/doctor.jpg
+    - lib/assets/images/pharmacien.jpg
+    - lib/assets/images/pharmacien-pharmacie-derriere-comptoir-pharmacien-masculin-tient-medicaments-dans-sa-main_531064-7550.avif
+    - lib/assets/images/carte.png
+    - lib/assets/images/carte1.png
+    - lib/assets/images/pharmacien.png
+    - lib/assets/images/medecin.png
+    - lib/assets/images/utilisateur.png
+    - lib/assets/images/rendez-vous-chez-le-medecin.png
+    - lib/assets/images/medicament.png
+    - lib/assets/images/otp.gif
+    - lib/assets/animation/WelcomeDoctor.gif
+    - lib/assets/images/rendez-vous.png
+    - lib/assets/flags/ar.png
+    - lib/assets/flags/fr.png
+    - lib/assets/flags/en.png
+    - lib/assets/images/verificationcode.json
+    - lib/assets/animation/WelcomDoctor.json
+    - lib/assets/animation/PharmacistWelcome.json
+    - lib/assets/animation/profil.json
+    - lib/assets/images/DoctorWelcome.png
+    - lib/assets/images/PharmacistWelcome.png
+    - lib/assets/images/background.png
+    - lib/assets/images/svg 1.png
+    - lib/assets/animation/laboratory.json
+    - lib/assets/images/laboratoire.jpg
+    - lib/assets/images/labo.png
+    - lib/assets/images/labo1.jpeg
+    - lib/assets/images/labo 2.jpg
+    - lib/assets/images/notice_docteur.png
+    - lib/assets/images/notice_docteur1.png
+    - lib/assets/images/notice_docteur2.png
+    - lib/assets/images/pharmacie_notice.png
+    - lib/assets/images/pharmacie_notice1.png
+    - lib/assets/images/pharmacie_notice2.png
+    - lib/assets/images/laboratoire_notice.png
+    - lib/assets/images/laboratoire_notice1.png
+    - lib/assets/images/laboratoire_notice2.png
+    - lib/assets/images/laboratorien.png
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path:  
+
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+flutter_intl:
+  enabled: true
